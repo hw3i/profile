@@ -1,0 +1,70 @@
+/* We just give you the arrow CSS code */
+.product {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-radius: 3px;
+  margin: 10px 0;
+}
+
+.product:hover {
+  background-color: #f7f7fa;
+}
+
+.product-arrow {
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid transparent;
+  border-bottom: 9px solid black;
+  border-radius: 2px;
+  margin: auto;
+}
+
+.product-count {
+  margin: 2px;
+}
+
+.product-upvote {
+  font-weight: bold;
+  font-size: 13px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.product-image {
+  border-radius: 20px;
+  margin-right: 20px;
+  width: 150px;
+  padding: 10px;
+}
+
+.product-body {
+  flex: 1 1 40%;
+}
+
+.product-body h3 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-top: 0
+}
+
+.product-body p {
+  opacity: 0.4;
+}
+
+.product-controls {
+  margin: 0;
+}
+
+.product-controls a {
+  color: #E6E6E6;
+  font-size: 17px;
+  padding: 0 20px;
+}
+
+.product-controls a:hover {
+  color: #D3473C
+}
+

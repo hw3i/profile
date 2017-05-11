@@ -1,0 +1,22 @@
+.profile-header-wrapper {
+  background: #2b2b2b;
+  color: white;
+}
+
+.profile-header-wrapper h2 {
+  opacity: 0.4;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.profile-header-infos {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-header-username {
+  flex: 1 1 auto;
+  padding: 20px;
+}

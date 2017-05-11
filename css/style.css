@@ -1,7 +1,7 @@
-@import url("css/components/avatar.css");
-@import url("css/components/tabs.css");
-@import url("css/components/profile_header.css");
-@import url("css/components/list.css");
+@import url("../css/components/avatar.css");
+@import url("../css/components/tabs.css");
+@import url("../css/components/profile_header.css");
+@import url("../css/components/list.css");
 
 body {
   background: #131313;
