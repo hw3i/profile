@@ -1,6 +1,7 @@
 .profile-header-wrapper {
   background: #2b2b2b;
   color: white;
+  background-image: url(../../pictures/deathstar.jpg)
 }
 
 .profile-header-wrapper h2 {
